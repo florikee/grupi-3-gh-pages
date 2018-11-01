@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Open Data Kosovo
 
 You can use the [editor on GitHub](https://github.com/florikee/grupi-3-gh-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +11,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Html
+## Css
+### Javascript
 
-- Bulleted
-- List
+- Git
+- GitHub
 
-1. Numbered
-2. List
+1. _GitHubPages_
+2. **Jekyll**
 
 **Bold** and _Italic_ and `Code` text
 
